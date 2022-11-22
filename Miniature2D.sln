@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miniature2D", "Miniature2D\Miniature2D.csproj", "{DD2FA318-2E12-4A50-A0BD-83401CF4BE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pie", "Pie\Pie\Pie.csproj", "{F1D1447B-76C1-4BC0-B4D1-2BF7979C1591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pie.Windowing", "Pie\Pie.Windowing\Pie.Windowing.csproj", "{CF35FAEC-58E3-40A7-B038-B33A2165B985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2FA318-2E12-4A50-A0BD-83401CF4BE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2FA318-2E12-4A50-A0BD-83401CF4BE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2FA318-2E12-4A50-A0BD-83401CF4BE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2FA318-2E12-4A50-A0BD-83401CF4BE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D1447B-76C1-4BC0-B4D1-2BF7979C1591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D1447B-76C1-4BC0-B4D1-2BF7979C1591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D1447B-76C1-4BC0-B4D1-2BF7979C1591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D1447B-76C1-4BC0-B4D1-2BF7979C1591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF35FAEC-58E3-40A7-B038-B33A2165B985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF35FAEC-58E3-40A7-B038-B33A2165B985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF35FAEC-58E3-40A7-B038-B33A2165B985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF35FAEC-58E3-40A7-B038-B33A2165B985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
